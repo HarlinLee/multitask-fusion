@@ -1,5 +1,6 @@
 # Calculate mixing weights
 import numpy as np
+import scipy
 from scipy import linalg
 
 def get_weights(E_bs_hats, bs_star, var_squared):
