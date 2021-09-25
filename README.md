@@ -4,4 +4,4 @@ A One-shot Linear Mixing Approach Inspired by Graph Regularization
 
 Developed in Python 3.8.5.
 
-Citation information and link to paper will appear soon.
+Citation information will appear soon. Preprint: https://math.ucla.edu/~harlin/papers/mtl.pdf.
